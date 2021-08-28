@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameForWindows:jar">
+    <output-path>$PROJECT_DIR$/GameForWindows_jar</output-path>
+    <root id="archive" name="GameForWindows.jar">
+      <element id="module-output" name="GameForWindows" />
+    </root>
+  </artifact>
+</component>

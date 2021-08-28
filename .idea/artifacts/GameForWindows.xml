@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jpackage" name="GameForWindows">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameForWindows</output-path>
+    <properties id="jpackage-properties">
+      <options>
+        <option name="version" value="" />
+        <option name="copyright" value="" />
+        <option name="description" value="" />
+        <option name="vendor" value="exe" />
+        <option name="mainClass" value="MainPackage.Window" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="GameForWindows.jar">
+        <element id="module-output" name="GameForWindows" />
+      </element>
+    </root>
+  </artifact>
+</component>
